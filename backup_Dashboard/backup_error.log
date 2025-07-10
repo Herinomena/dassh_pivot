@@ -1,0 +1,2 @@
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+-- Warning: column statistics not supported by the server.

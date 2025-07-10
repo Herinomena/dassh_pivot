@@ -1,0 +1,14 @@
+mysql -u root -p
+
+Her!nomen@_11
+
+SHOW DATABASES;
+
+USE base_pvt_locale;
+
+SELECT * FROM care_center;
+
+
+
+
+

@@ -1,0 +1,16 @@
+Mysqlworkbench/VPS Pivot/server/Data export/export to Self-contained file/...../Start Export
+
+creer une base de données en locale:base_pvt_locale
+
+avec VS Stutio ouvre le dump sql etsupprimer les line contenenant mysqlwb  partir de la 2720 e ligne
+Db wear /base_pvt_locale/mysql restore/non:root utilisateur: -MDP:Her!nomen@_11
+
+allez dans le repersoire des requetes
+
+cd /home/herinomena/Documents/Export_dashbord_DHIS/Script_Migration_Dash_vers_DHIS2
+
+Aller dans le sous dossiers
+
+./
+
+

@@ -1,0 +1,12 @@
+2025-06-13 09:44:01,438 - INFO - ✅ Connexion réussie à la base de données
+2025-06-13 09:44:02,252 - ERROR - ❌ Erreur lors de l'export des données pour exports/Dr Haingo/Durée séjour controle CHU Fianarantsoa_05_2025.xlsx: Cannot save file into a non-existent directory: 'exports/Dr Haingo'
+2025-06-13 09:44:02,766 - ERROR - ❌ Erreur lors de l'export des données pour exports/Dr Haingo/Durée séjour patient PEC CHU Fianarantsoa_05_2025.xlsx: Cannot save file into a non-existent directory: 'exports/Dr Haingo'
+2025-06-13 09:44:03,918 - ERROR - ❌ Erreur lors de l'export des données pour exports/Dr Haingo/Durée séjour CHRD Ifanadiana_05_2025.xlsx: Cannot save file into a non-existent directory: 'exports/Dr Haingo'
+2025-06-13 09:44:03,920 - ERROR - ❌ Erreur lors de l'envoi de l'email: [Errno 2] No such file or directory: 'exports/Dr Haingo/Durée séjour controle CHU Fianarantsoa_05_2025.xlsx'
+2025-06-13 09:44:03,922 - INFO - Connexion fermée avec succès
+2025-06-13 13:58:01,269 - INFO - ✅ Connexion réussie à la base de données
+2025-06-13 13:58:02,417 - ERROR - ❌ Erreur lors de l'export des données: Cannot save file into a non-existent directory: 'exports/Haja_finance'
+2025-06-13 13:58:03,158 - ERROR - ❌ Erreur lors de l'export des données: Cannot save file into a non-existent directory: 'exports/Haja_finance'
+2025-06-13 13:58:03,908 - ERROR - ❌ Erreur lors de l'export des données: Cannot save file into a non-existent directory: 'exports/Haja_finance'
+2025-06-13 13:58:03,910 - ERROR - ❌ Erreur lors de l'envoi de l'email: [Errno 2] No such file or directory: 'exports/Haja_finance/List Contole PEC CHRD_05_2025.xlsx'
+2025-06-13 13:58:03,910 - INFO - Connexion fermée avec succès
